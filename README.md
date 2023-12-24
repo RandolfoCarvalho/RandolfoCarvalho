@@ -6,7 +6,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Randolfo/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandolfoCarvalho&show_icons=true)](https://github.com/RandolfoCarvalho/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandolfoCarvalho&show_icons=true&theme=radical)](https://github.com/RandolfoCarvalho/github-readme-stats)
 
 Tecnologias que uso no meu dia
 <div style="display: inline_block"> <br/>
